@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nome": "X-Burguer", "preco": 15.00, "categoria": "comida" },
+  { "id": 2, "nome": "Batata Frita", "preco": 10.00, "categoria": "comida" },
+  { "id": 3, "nome": "Refrigerante", "preco": 6.00, "categoria": "bebida" },
+  { "id": 4, "nome": "Suco Natural", "preco": 7.00, "categoria": "bebida" }
+]

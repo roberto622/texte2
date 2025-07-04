@@ -1,0 +1,119 @@
+[
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "delivery",
+        "endereco": "edson",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-02 05:17:11"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "4": {
+                "produto": {
+                    "id": 4,
+                    "nome": "Suco Natural",
+                    "preco": 7,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-02 05:17:59"
+    },
+    {
+        "usuario": "Roberto",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 3
+            },
+            "4": {
+                "produto": {
+                    "id": 4,
+                    "nome": "Suco Natural",
+                    "preco": 7,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "delivery",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-03 01:51:24"
+    },
+    {
+        "usuario": "Roberto",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-03 01:53:31"
+    },
+    {
+        "usuario": "Roberto",
+        "itens": {
+            "4": {
+                "produto": {
+                    "id": 4,
+                    "nome": "Suco Natural",
+                    "preco": 7,
+                    "categoria": "bebida"
+                },
+                "quantidade": 4
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-03 05:13:01"
+    }
+]
