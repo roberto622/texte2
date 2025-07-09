@@ -115,5 +115,212 @@
         "endereco": "",
         "status": "Aguardando confirma\u00e7\u00e3o",
         "data": "2025-07-03 05:13:01"
+    },
+    {
+        "usuario": "Luiz",
+        "itens": {
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 3
+            },
+            "2": {
+                "produto": {
+                    "id": 2,
+                    "nome": "Batata Frita",
+                    "preco": 10,
+                    "categoria": "comida"
+                },
+                "quantidade": 3
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 01:01:15"
+    },
+    {
+        "usuario": "Roberto",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "4": {
+                "produto": {
+                    "id": 4,
+                    "nome": "Suco Natural",
+                    "preco": 7,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 02:01:49"
+    },
+    {
+        "usuario": "Roberto",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "2": {
+                "produto": {
+                    "id": 2,
+                    "nome": "Batata Frita",
+                    "preco": 10,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 03:46:27"
+    },
+    {
+        "usuario": "Luiz",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 05:48:40"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 06:07:11"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 06:31:17"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "4": {
+                "produto": {
+                    "id": 4,
+                    "nome": "Suco Natural",
+                    "preco": 7,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 06:33:12"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 1
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-06 06:38:41"
+    },
+    {
+        "usuario": "Paulo",
+        "itens": {
+            "1": {
+                "produto": {
+                    "id": 1,
+                    "nome": "X-Burguer",
+                    "preco": 15,
+                    "categoria": "comida"
+                },
+                "quantidade": 2
+            },
+            "3": {
+                "produto": {
+                    "id": 3,
+                    "nome": "Refrigerante",
+                    "preco": 6,
+                    "categoria": "bebida"
+                },
+                "quantidade": 2
+            }
+        },
+        "entrega": "local",
+        "endereco": "",
+        "status": "Aguardando confirma\u00e7\u00e3o",
+        "data": "2025-07-09 01:58:47"
     }
 ]

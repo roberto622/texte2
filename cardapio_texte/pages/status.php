@@ -32,7 +32,7 @@ $meusPedidos = array_filter($pedidos, fn($p) => $p['usuario'] === $usuario);
         <?php if (!empty($pedido['endereco'])): ?>
           <strong>Endereço:</strong> <?= htmlspecialchars($pedido['endereco']) ?><br>
         <?php endif; ?>
-        <strong>Status:</strong> <?= $pedido['status'] ?><br><br>
+        <strong>Status:</strong> <span class="status-badge"><?= htmlspecialchars($pedido['status'])?></span><br><br>
 
         <u>Itens:</u>
         <ul style="text-align:left;">

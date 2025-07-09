@@ -23,7 +23,7 @@ $total = 0.0;
     <a href="menu.php">Voltar ao menu</a>
   <?php else: ?>
     <form method="POST" action="../scripts/finalizar_pedido.php">
-      <table align="center" border="1" cellpadding="10">
+      <table class="menu-table">
         <tr>
           <th>Produto</th>
           <th>Preço</th>

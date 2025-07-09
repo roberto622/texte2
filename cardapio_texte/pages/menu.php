@@ -14,10 +14,13 @@ $produtos = json_decode(file_get_contents('../data/produtos.json'), true);
   <title>Menu da Lancheria</title>
 </head>
 <body>
-  <h2>🍔 Olá, <?php echo htmlspecialchars($_SESSION['usuario']); ?>! Escolha seu pedido:</h2>
+<?php ?>
+<div class="menu-welcome">
+  🍔 Olá, <?php echo htmlspecialchars($_SESSION['usuario']); ?>! Escolha seu pedido:
+</div>
 
   <form method="POST" action="../scripts/adicionar_ao_carrinho.php">
-    <table align = "center" border = "1" cellpadding="10">
+    <table class="menu-table">
       <tr>
         <th>Produto</th>
         <th>Categoria</th>
